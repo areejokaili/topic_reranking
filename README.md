@@ -1,7 +1,7 @@
 # topic_reranking
 This repository contains the source code used for the paper:<br>
 <br>
-**Re-Ranking Words to Improve Interpretability of Automatically Generated Topics** (2019) Areej Alokaili, Areej and Nikolaos Aletras and Mark Stevenson in *Proceedings of the 13th International Conference on Computational Semantics - Long Papers*, pp43-54, Gothenburg, Sweden.<br>
+**Re-Ranking Words to Improve Interpretability of Automatically Generated Topics** (2019) Areej Alokaili, Nikolaos Aletras and Mark Stevenson in *Proceedings of the 13th International Conference on Computational Semantics - Long Papers*, pp43-54, Gothenburg, Sweden.<br>
 <br>
 [https://www.aclweb.org/anthology/W19-0404](https://www.aclweb.org/anthology/W19-0404)
  
