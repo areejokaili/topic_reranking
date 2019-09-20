@@ -61,7 +61,7 @@ for topic_ind in range(NUMTOPICS):
 dictionary_coh = Dictionary(processed_texts)
 coh = CoherenceModel(topics = topics_list, texts = processed_texts, dictionary = dictionary_coh, coherence= coh_metric).get_coherence()
 print("-" * 10 )
-# Coherence will be small since the data we are using here us small and will not produce representiive topics. 
+# Coherence will be small since the data we are using here is small and will not produce representative topics. 
 print("(Ranked using Rank_orig) Topics Coherence Score %r %r \n"%(coh_metric, coh)) 
 
 ######### Start Terms Re-Ranking Here ############
